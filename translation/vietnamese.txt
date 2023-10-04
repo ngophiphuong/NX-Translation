@@ -7,7 +7,7 @@
 004fa893=Để Ngắt Kết Nối Bộ Điều Khiển Không Mong Muốn, Nhấn Nhanh Nút SYNC Của Nó
 0055b405=Để Thực Hiện Cập Nhật Hệ Thống, Hãy Chọn <ICONSS/>(Cài Đặt Hệ Thống) ⇒ Hệ Thống Trên Màn Hình HOME
 00620065=Người Dùng Đã Di Chuyển Và Dữ Liệu Lưu Sẽ Bị Xóa Khỏi Bộ Điều Khiển Nguồn
-0072e37f=Tiếp Tục Chỉnh Sửa?
+0072e37f=Tiếp Tục Chỉnh Sửa ?
 007478f1=Cần Phải Cập Nhật Hệ Thống
 008bc299=Đính Kèm Vào Bộ Điều Khiển
 00a1afc1=Nhấn Và Giữ Nút SYNC Của Bộ Điều Khiển Để Ghép Nối Nó Với Switch
@@ -671,7 +671,7 @@
 390ef05b=Vui Lòng Thử Lại Sau
 392848cd=Berlin, Rome, Viên, Zurich
 39328c0e=Đang Xóa Phần Mềm
-3934f69c=Hiệu Chỉnh Joycon / Tay Cầm Pro Controller
+3934f69c=Hiệu Chỉnh Joycon , Pro Controller
 395e9769=2 Giờ
 39647e82=Lưu Dữ Liệu Đã Nhận
 3964f628=Quét Mã QR Bằng Camera Trên Điện Thoại Thông Minh Hoặc Thiết Bị Thông Minh Của Bạn
